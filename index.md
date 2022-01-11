@@ -19,6 +19,13 @@ the data
 
 ![newplot](https://user-images.githubusercontent.com/43764400/147300519-3191a742-5bd6-4b61-8106-e367dce76ecd.png)
 
+# [Stock Trading Bot with Deep Q-Learning](https://github.com/jjkcoding/Stock-Trading-Bot-with-Deep-Q-Learning)
+* Transformed and prepared data for Deep Q-Learning
+* Developed an environment, model, and Deep Q-Network to predict Apple Stock Data
+* Trained and tested stock bot with yfinance Apple stock data 
+* Predicted best moments to buy and sell stocks
+* **Coding Language:** Python
+* **Main Packages:** pandas, numpy, tensorflow, yfinance
 
 # [CNN Prediction Model on AAPL Stock-Prices](https://github.com/jjkcoding/CNN-Prediction-Model-on-AAPL-Stock-Prices)
 * Transform and preprocess data for convolution model
