@@ -5,7 +5,7 @@
 * **Coding Language:** Python
 * **Main Packages:** pandas, numpy, selenium, matplotlib, seaborn
 
-![image](https://user-images.githubusercontent.com/43764400/148858537-b15414ef-8b55-450e-830c-4e8824cba983.png)
+![image](https://user-images.githubusercontent.com/43764400/148858537-b15414ef-8b55-450e-830c-4e8824cba983.png) 
 
 
 ## [U.S. Housing Index NSA Analysis](https://github.com/jjkcoding/US-Housing-Index-NSA-Analysis)
@@ -19,6 +19,7 @@ the data
 
 ![newplot](https://user-images.githubusercontent.com/43764400/147300519-3191a742-5bd6-4b61-8106-e367dce76ecd.png)
 
+
 ## [Stock Trading Bot with Deep Q-Learning](https://github.com/jjkcoding/Stock-Trading-Bot-with-Deep-Q-Learning)
 * Transformed and prepared data for Deep Q-Learning
 * Developed an environment, model, and Deep Q-Network to predict Apple Stock Data
@@ -26,6 +27,7 @@ the data
 * Predicted best moments to buy and sell stocks
 * **Coding Language:** Python
 * **Main Packages:** pandas, numpy, tensorflow, yfinance
+
 
 ## [CNN Prediction Model on AAPL Stock-Prices](https://github.com/jjkcoding/CNN-Prediction-Model-on-AAPL-Stock-Prices)
 * Transform and preprocess data for convolution model
@@ -36,6 +38,7 @@ the data
 * **Main Packages:** pandas, numpy, sklearn, keras, yfinance
 
 ![image](https://user-images.githubusercontent.com/43764400/146846404-85020e50-770e-44bd-b982-f0318b98e46a.png)
+
 
 ## [Kanye Markov Chain](https://github.com/jjkcoding/Kanye-Markov-Chain)
 * Transform and prepare Kanye lyrics for markov chains
