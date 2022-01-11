@@ -1,3 +1,5 @@
+# Data Analyst / Data Scientist Porfolio
+
 ## [Korea Flight Prices](https://github.com/jjkcoding/Korea-Flight-Prices)
 * Web scraped airplane ticket prices using Selenium and "kayak.com"
 * Cleaned and split the data into sections for data visualization
