@@ -1,7 +1,7 @@
 # Data Analyst / Data Scientist Porfolio
 
 ## [Personal Expenses Dashboard](https://github.com/jjkcoding/Personal-Expenses-Dashboard)
-* Displayed a rough analysis through pivot tables in excel
+* Displayed a rough analysis through pivot tables in Excel
 * Cleaned data and added categories using Python
 * Plotted and discovered key information using Tableau
 * Designed an interactive dashboard of my expenses using Tableau
