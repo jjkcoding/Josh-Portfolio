@@ -1,5 +1,14 @@
 # Data Analyst / Data Scientist Porfolio
 
+## [Personal Expenses Dashboard](https://github.com/jjkcoding/Personal-Expenses-Dashboard)
+* Displayed a rough analysis through pivot tables in excel
+* Cleaned data and added categories using Python
+* Plotted all the major key points using Tableau
+* Designed an interactive dashboard of my expenses using Tableau
+* **Coding Languages:** Excel, Python, Tableau
+![image](https://user-images.githubusercontent.com/43764400/150591746-6b69b4d0-ef40-4b0e-a1a7-c18790d59e9a.png)
+
+
 ## [Korea Flight Prices](https://github.com/jjkcoding/Korea-Flight-Prices)
 * Web scraped airplane ticket prices using Selenium and "kayak.com"
 * Cleaned and split the data into sections for data visualization
