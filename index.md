@@ -20,13 +20,11 @@
 
 
 ## [U.S. Housing Index NSA Analysis](https://github.com/jjkcoding/US-Housing-Index-NSA-Analysis)
-* Filtered and reviewed over a hundred thousand housing entries to prepare
-data for visualization
-* Displayed data onto a bar chart and a map (choropleth) to better visualize
-the data
+* Filtered and manipulated over a hundred thousand housing entries to prepare data for visualization using SQLite
+* Displayed data onto a bar chart and a map (choropleth) to better visualize the data using Python
 * Discovered key findings about the housing prices for all states in the U.S.
-* **Coding Language:** Python
-* **Main Packages:** pandas, matplotlib, datetime
+* **Coding Languages:** SQL, Python
+* **Main Packages:** pandas, matplotlib, plotly
 
 ![newplot](https://user-images.githubusercontent.com/43764400/147300519-3191a742-5bd6-4b61-8106-e367dce76ecd.png)
 
