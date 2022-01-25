@@ -1,5 +1,15 @@
 # Data Analyst / Data Scientist Porfolio
 
+## [U.S. Housing Index NSA Analysis](https://github.com/jjkcoding/US-Housing-Index-NSA-Analysis)
+* Filtered and manipulated over a hundred thousand housing entries to prepare data for visualization using SQLite
+* Displayed data onto a bar chart and a map (choropleth) to better visualize the data using Python
+* Discovered key findings about the housing prices for all states in the U.S.
+* Created interactive dashboard of key findings
+* **Coding Languages:** SQL, Python
+* **Main Packages:** pandas, matplotlib, plotly
+
+![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911866-c5139514-cd8e-424c-a4e1-522a2ab726f0.png)
+
 ## [Personal Expenses Dashboard](https://github.com/jjkcoding/Personal-Expenses-Dashboard)
 * Displayed a rough analysis through pivot tables in Excel
 * Cleaned data and added categories using Python
@@ -7,7 +17,6 @@
 * Designed an interactive dashboard of my expenses using Tableau
 * **Coding Languages:** Excel, Python, Tableau
 ![image](https://user-images.githubusercontent.com/43764400/150591746-6b69b4d0-ef40-4b0e-a1a7-c18790d59e9a.png)
-
 
 ## [Korea Flight Prices](https://github.com/jjkcoding/Korea-Flight-Prices)
 * Web scraped airplane ticket prices using Selenium and "kayak.com"
@@ -18,15 +27,6 @@
 
 ![image](https://user-images.githubusercontent.com/43764400/148858537-b15414ef-8b55-450e-830c-4e8824cba983.png) 
 
-
-## [U.S. Housing Index NSA Analysis](https://github.com/jjkcoding/US-Housing-Index-NSA-Analysis)
-* Filtered and manipulated over a hundred thousand housing entries to prepare data for visualization using SQLite
-* Displayed data onto a bar chart and a map (choropleth) to better visualize the data using Python
-* Discovered key findings about the housing prices for all states in the U.S.
-* **Coding Languages:** SQL, Python
-* **Main Packages:** pandas, matplotlib, plotly
-
-![newplot](https://user-images.githubusercontent.com/43764400/147300519-3191a742-5bd6-4b61-8106-e367dce76ecd.png)
 
 
 ## [Stock Trading Bot with Deep Q-Learning](https://github.com/jjkcoding/Stock-Trading-Bot-with-Deep-Q-Learning)
