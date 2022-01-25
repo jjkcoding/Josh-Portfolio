@@ -4,8 +4,8 @@
 * Filtered and manipulated over a hundred thousand housing entries to prepare data for visualization using SQLite
 * Displayed data onto a bar chart and a map (choropleth) to better visualize the data using Python
 * Discovered key findings about the housing prices for all states in the U.S.
-* Created interactive dashboard of key findings
-* **Coding Languages:** SQL, Python
+* Created an interactive dashboard of key findings with Tableau
+* **Coding Languages:** SQL, Python, Tableau
 * **Main Packages:** pandas, matplotlib, plotly
 
 ![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911866-c5139514-cd8e-424c-a4e1-522a2ab726f0.png)
