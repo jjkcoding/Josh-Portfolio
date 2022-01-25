@@ -6,7 +6,7 @@
 * Plotted and discovered key information using Tableau
 * Designed an interactive dashboard of my expenses using Tableau
 * **Coding Languages:** Excel, Python, Tableau
-![Expenses Dashboard](https://user-images.githubusercontent.com/43764400/151028576-f04285ea-8fe1-49cf-8a9d-9a5b8915948e.png)
+![Expenses Dashboard](https://user-images.githubusercontent.com/43764400/151029041-8900d796-ce09-4d08-aa4d-9cec3f79e980.png)
 
 
 
