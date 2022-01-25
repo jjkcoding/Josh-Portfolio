@@ -9,8 +9,8 @@
 ![image](https://user-images.githubusercontent.com/43764400/150591746-6b69b4d0-ef40-4b0e-a1a7-c18790d59e9a.png)
 
 ## [U.S. Housing Index NSA Analysis](https://github.com/jjkcoding/US-Housing-Index-NSA-Analysis)
-* Filtered and manipulated over a hundred thousand housing entries to prepare data for visualization using SQLite
-* Displayed data onto a bar chart and a map (choropleth) to better visualize the data using Python
+* Filtered and manipulated over one hundred thousand housing entries with SQLite
+* Displayed the data onto a bar chart and a choropleth to better visualize the data using Python
 * Discovered key findings about the housing prices for all states in the U.S.
 * Created an interactive dashboard of key findings with Tableau
 * **Coding Languages:** SQL, Python, Tableau
