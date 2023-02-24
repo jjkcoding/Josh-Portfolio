@@ -21,7 +21,7 @@
 ![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911866-c5139514-cd8e-424c-a4e1-522a2ab726f0.png)
 
 
-## [Polynomial Linear Regression to Predict GOOG Prices]([https://github.com/jjkcoding/Korea-Flight-Prices](https://github.com/jjkcoding/Polynomial-Linear-Regression-Predicting-GOOG))
+## [Polynomial Linear Regression to Predict GOOG Prices](https://github.com/jjkcoding/Polynomial-Linear-Regression-Predicting-GOOG)
 * Independently developed and implemented a Polynomial Linear Regression Model to predict future closing prices of GOOG stock, using historical data of GOOG and AAPL stocks as support.
 * Demonstrated proficiency in forecasting and analyzing time series data, gaining valuable insights into Polynomial Regression Modeling and constructing prediction intervals.
 * Analyzed past trends in the stock market to forecast potential outcomes of future GOOG closing prices with a higher degree of accuracy.
