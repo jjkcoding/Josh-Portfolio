@@ -1,21 +1,18 @@
 # Data Analyst / Data Scientist Porfolio
 
 ## [Personal Expenses Dashboard](https://github.com/jjkcoding/Personal-Expenses-Dashboard)
-* Displayed a rough analysis through pivot tables in Excel
-* Cleaned data and added categories using Python
-* Plotted and discovered key information using Tableau
-* Designed an interactive dashboard of my expenses using Tableau
-* **Coding Languages:** Excel, Python, Tableau
+* Conducted data analysis by utilizing pivot tables in Excel, which provided a rough analysis of the data.
+* Cleaned the data and added categories using Python, which allowed for a more in-depth analysis of the data.
+* Plotted and discovered key information using Tableau, which enabled the visualization of the data and helped identify patterns and trends.
+* Designed an interactive dashboard of my expenses using Tableau, which presented the data in a visually appealing and user-friendly way.
 ![Expenses Dashboard](https://user-images.githubusercontent.com/43764400/151029041-8900d796-ce09-4d08-aa4d-9cec3f79e980.png)
 
 
-
-
 ## [U.S. Housing Index NSA Analysis](https://github.com/jjkcoding/US-Housing-Index-NSA-Analysis)
-* Filtered and manipulated over one hundred thousand housing entries with SQLite
-* Displayed the data onto a bar chart and a choropleth to better visualize the data using Python
-* Discovered key findings about the housing prices for all states in the U.S.
-* Created an interactive dashboard of key findings with Tableau
+* Analyzed and manipulated over 100,000 housing entries using SQLite, ensuring high-quality data for analysis.
+* Utilized Python to display the data on a bar chart and choropleth, providing an intuitive and informative visualization of the data.
+* Identified key findings about housing prices for all states in the U.S., providing insights into the overall trends of the housing market.
+* Designed an interactive dashboard using Tableau to showcase the key findings, enabling a user-friendly and visually appealing display of the data.
 * **Coding Languages:** SQL, Python, Tableau
 
 ![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911866-c5139514-cd8e-424c-a4e1-522a2ab726f0.png)
@@ -31,9 +28,9 @@
 ![GOOG Forecast](https://user-images.githubusercontent.com/43764400/221107702-f38c4096-e988-4f56-bf6c-eb58c7f0a467.png)
 
 ## [Korea Flight Prices](https://github.com/jjkcoding/Korea-Flight-Prices)
-* Web scraped airplane ticket prices using Selenium and "kayak.com"
-* Cleaned and split the data into sections for data visualization
-* Formed multiple box plots to discover the best time to buy airplane tickets
+* Utilized Selenium and "kayak.com" to web scrape airplane ticket prices, collecting comprehensive and up-to-date data.
+* Cleaned and structured the data into sections for effective data visualization, ensuring clear and concise insights.
+* Created multiple box plots to identify the optimal time to purchase airplane tickets, enabling informed decision-making for travelers.
 * **Coding Language:** Python
 * **Main Packages:** pandas, numpy, selenium, matplotlib, seaborn
 
