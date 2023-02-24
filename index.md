@@ -21,6 +21,15 @@
 ![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911866-c5139514-cd8e-424c-a4e1-522a2ab726f0.png)
 
 
+## [Polynomial Linear Regression to Predict GOOG Prices]([https://github.com/jjkcoding/Korea-Flight-Prices](https://github.com/jjkcoding/Polynomial-Linear-Regression-Predicting-GOOG))
+* Independently developed and implemented a Polynomial Linear Regression Model to predict future closing prices of GOOG stock, using historical data of GOOG and AAPL stocks as support.
+* Demonstrated proficiency in forecasting and analyzing time series data, gaining valuable insights into Polynomial Regression Modeling and constructing prediction intervals.
+* Analyzed past trends in the stock market to forecast potential outcomes of future GOOG closing prices with a higher degree of accuracy.
+* Developed expertise in the field of finance and data analysis through independent research and exploration.
+* **Main Packages:** pandas, numpy, plotly, sklearn, yfinance, datetime
+
+![GOOG Forecast](https://user-images.githubusercontent.com/43764400/221107702-f38c4096-e988-4f56-bf6c-eb58c7f0a467.png)
+
 ## [Korea Flight Prices](https://github.com/jjkcoding/Korea-Flight-Prices)
 * Web scraped airplane ticket prices using Selenium and "kayak.com"
 * Cleaned and split the data into sections for data visualization
@@ -29,8 +38,6 @@
 * **Main Packages:** pandas, numpy, selenium, matplotlib, seaborn
 
 ![image](https://user-images.githubusercontent.com/43764400/148858537-b15414ef-8b55-450e-830c-4e8824cba983.png) 
-
-
 
 ## [Stock Trading Bot with Deep Q-Learning](https://github.com/jjkcoding/Stock-Trading-Bot-with-Deep-Q-Learning)
 * Transformed and prepared data for Deep Q-Learning
