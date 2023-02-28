@@ -1,14 +1,6 @@
 # Data Analyst / Data Scientist Porfolio
 
-## [Personal Expenses Dashboard](https://github.com/jjkcoding/Personal-Expenses-Dashboard)
-* Conducted data analysis by utilizing pivot tables in Excel, which provided a rough analysis of the data.
-* Cleaned the data and added categories using Python, which allowed for a more in-depth analysis of the data.
-* Plotted and discovered key information using Tableau, which enabled the visualization of the data and helped identify patterns and trends.
-* Designed an interactive dashboard of my expenses using Tableau, which presented the data in a visually appealing and user-friendly way.
-
-![Expenses Dashboard](https://user-images.githubusercontent.com/43764400/151029041-8900d796-ce09-4d08-aa4d-9cec3f79e980.png)
-
-# [San Diego Airbnb Shiny Analysis & Dashboard](https://github.com/jjkcoding/San-Diego-Airbnbs-Analysis)
+## [San Diego Airbnb Shiny Analysis & Dashboard](https://github.com/jjkcoding/San-Diego-Airbnbs-Analysis)
 * Employed data manipulation techniques to clean and filter the San Diego Airbnb neighborhood data, ensuring the data was suitable for graph creation and analysis using RStudio and tidyverse.
 * Utilized RStudio and ggplot2/tidyverse packages to perform data analysis on San Diego Airbnb neighborhood prices, creating a range of visualizations, including bar charts, box plots, histograms, and lollipop graphs.
 * Developed an interactive Shiny dashboard that utilized the data analysis findings to group neighborhoods by tiers based on their average price, host information, and number of listings, highlighting trends and insights.
@@ -16,6 +8,17 @@
 * **Main Packages:** ggplot2, tidyverse, shiny, shinydashboard
 
 ![image](https://user-images.githubusercontent.com/43764400/221736048-b4cf3e9b-2d43-45b2-9e6b-d29acc3cf563.png)
+
+
+## [Personal Expenses Dashboard](https://github.com/jjkcoding/Personal-Expenses-Dashboard)
+* Conducted data analysis by utilizing pivot tables in Excel, which provided a rough analysis of the data.
+* Cleaned the data and added categories using Python, which allowed for a more in-depth analysis of the data.
+* Plotted and discovered key information using Tableau, which enabled the visualization of the data and helped identify patterns and trends.
+* Designed an interactive dashboard of my expenses using Tableau, which presented the data in a visually appealing and user-friendly way.
+* **Coding Languages**: Excel, Python, Tableau
+
+![Expenses Dashboard](https://user-images.githubusercontent.com/43764400/151029041-8900d796-ce09-4d08-aa4d-9cec3f79e980.png)
+
 
 ## [Polynomial Linear Regression to Predict GOOG Prices](https://github.com/jjkcoding/Polynomial-Linear-Regression-Predicting-GOOG)
 * Independently developed and implemented a Polynomial Linear Regression Model to predict future closing prices of GOOG stock, using historical data of GOOG and AAPL stocks as support.
