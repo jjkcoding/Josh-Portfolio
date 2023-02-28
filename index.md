@@ -5,7 +5,26 @@
 * Cleaned the data and added categories using Python, which allowed for a more in-depth analysis of the data.
 * Plotted and discovered key information using Tableau, which enabled the visualization of the data and helped identify patterns and trends.
 * Designed an interactive dashboard of my expenses using Tableau, which presented the data in a visually appealing and user-friendly way.
+
 ![Expenses Dashboard](https://user-images.githubusercontent.com/43764400/151029041-8900d796-ce09-4d08-aa4d-9cec3f79e980.png)
+
+# [San Diego Airbnb Shiny Analysis & Dashboard](https://github.com/jjkcoding/San-Diego-Airbnbs-Analysis)
+* Employed data manipulation techniques to clean and filter the San Diego Airbnb neighborhood data, ensuring the data was suitable for graph creation and analysis using RStudio and tidyverse.
+* Utilized RStudio and ggplot2/tidyverse packages to perform data analysis on San Diego Airbnb neighborhood prices, creating a range of visualizations, including bar charts, box plots, histograms, and lollipop graphs.
+* Developed an interactive Shiny dashboard that utilized the data analysis findings to group neighborhoods by tiers based on their average price, host information, and number of listings, highlighting trends and insights.
+* Shiny Link: https://jjkcoding.shinyapps.io/SD_Airbnb_2022/
+* **Main Packages:** ggplot2, tidyverse, shiny, shinydashboard
+
+![image](https://user-images.githubusercontent.com/43764400/221736048-b4cf3e9b-2d43-45b2-9e6b-d29acc3cf563.png)
+
+## [Polynomial Linear Regression to Predict GOOG Prices](https://github.com/jjkcoding/Polynomial-Linear-Regression-Predicting-GOOG)
+* Independently developed and implemented a Polynomial Linear Regression Model to predict future closing prices of GOOG stock, using historical data of GOOG and AAPL stocks as support.
+* Demonstrated proficiency in forecasting and analyzing time series data, gaining valuable insights into Polynomial Regression Modeling and constructing prediction intervals.
+* Analyzed past trends in the stock market to forecast potential outcomes of future GOOG closing prices with a higher degree of accuracy.
+* Developed expertise in the field of finance and data analysis through independent research and exploration.
+* **Main Packages:** pandas, numpy, plotly, sklearn, yfinance, datetime
+
+![GOOG Forecast](https://user-images.githubusercontent.com/43764400/221107702-f38c4096-e988-4f56-bf6c-eb58c7f0a467.png)
 
 
 ## [U.S. Housing Index NSA Analysis](https://github.com/jjkcoding/US-Housing-Index-NSA-Analysis)
@@ -17,15 +36,6 @@
 
 ![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911866-c5139514-cd8e-424c-a4e1-522a2ab726f0.png)
 
-
-## [Polynomial Linear Regression to Predict GOOG Prices](https://github.com/jjkcoding/Polynomial-Linear-Regression-Predicting-GOOG)
-* Independently developed and implemented a Polynomial Linear Regression Model to predict future closing prices of GOOG stock, using historical data of GOOG and AAPL stocks as support.
-* Demonstrated proficiency in forecasting and analyzing time series data, gaining valuable insights into Polynomial Regression Modeling and constructing prediction intervals.
-* Analyzed past trends in the stock market to forecast potential outcomes of future GOOG closing prices with a higher degree of accuracy.
-* Developed expertise in the field of finance and data analysis through independent research and exploration.
-* **Main Packages:** pandas, numpy, plotly, sklearn, yfinance, datetime
-
-![GOOG Forecast](https://user-images.githubusercontent.com/43764400/221107702-f38c4096-e988-4f56-bf6c-eb58c7f0a467.png)
 
 ## [Korea Flight Prices](https://github.com/jjkcoding/Korea-Flight-Prices)
 * Utilized Selenium and "kayak.com" to web scrape airplane ticket prices, collecting comprehensive and up-to-date data.
