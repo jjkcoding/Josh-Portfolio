@@ -15,6 +15,7 @@
 * Cleaned the data and added categories using Python, which allowed for a more in-depth analysis of the data.
 * Plotted and discovered key information using Tableau, which enabled the visualization of the data and helped identify patterns and trends.
 * Designed an interactive dashboard of my expenses using Tableau, which presented the data in a visually appealing and user-friendly way.
+* Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/ExpensesFeb2021-Feb2022/ExpensesDashboard
 * **Coding Languages**: Excel, Python, Tableau
 
 ![Expenses Dashboard](https://user-images.githubusercontent.com/43764400/151029041-8900d796-ce09-4d08-aa4d-9cec3f79e980.png)
@@ -35,6 +36,7 @@
 * Utilized Python to display the data on a bar chart and choropleth, providing an intuitive and informative visualization of the data.
 * Identified key findings about housing prices for all states in the U.S., providing insights into the overall trends of the housing market.
 * Designed an interactive dashboard using Tableau to showcase the key findings, enabling a user-friendly and visually appealing display of the data.
+* Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/UnitedStatesIndexNSA/UnitedStatesIndexNSA
 * **Coding Languages:** SQL, Python, Tableau
 
 ![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911866-c5139514-cd8e-424c-a4e1-522a2ab726f0.png)
