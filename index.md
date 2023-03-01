@@ -29,7 +29,7 @@
 * Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/ExpensesFeb2021-Feb2022/ExpensesDashboard
 * **Coding Languages**: Excel, Python, Tableau
 
-![Expenses Dashboard](https://user-images.githubusercontent.com/43764400/151029041-8900d796-ce09-4d08-aa4d-9cec3f79e980.png)
+![image](https://user-images.githubusercontent.com/43764400/222047436-739e8f83-c4b2-49fd-9276-7d9105481d27.png)
 
 
 ## [Polynomial Linear Regression to Predict GOOG Prices](https://github.com/jjkcoding/Polynomial-Linear-Regression-Predicting-GOOG)
