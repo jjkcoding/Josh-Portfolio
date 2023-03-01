@@ -4,7 +4,7 @@
 * Employed data manipulation techniques to clean and filter the San Diego Airbnb neighborhood data, ensuring the data was suitable for graph creation and analysis using RStudio and tidyverse.
 * Utilized RStudio and ggplot2/tidyverse packages to perform data analysis on San Diego Airbnb neighborhood prices, creating a range of visualizations, including bar charts, box plots, histograms, and lollipop graphs.
 * Developed an interactive Shiny dashboard that utilized the data analysis findings to group neighborhoods by tiers based on their average price, host information, and number of listings, highlighting trends and insights.
-* Shiny Link: https://jjkcoding.shinyapps.io/SD_Airbnb_2022/
+* [Shiny Dashboard Link](https://jjkcoding.shinyapps.io/SD_Airbnb_2022/)
 * **Main Packages:** ggplot2, tidyverse, shiny, shinydashboard
 
 ![image](https://user-images.githubusercontent.com/43764400/221736048-b4cf3e9b-2d43-45b2-9e6b-d29acc3cf563.png)
@@ -15,7 +15,7 @@
 * Utilized Python to display the data on a bar chart and choropleth, providing an intuitive and informative visualization of the data.
 * Identified key findings about housing prices for all states in the U.S., providing insights into the overall trends of the housing market.
 * Designed an interactive dashboard using Tableau to showcase the key findings, enabling a user-friendly and visually appealing display of the data.
-* Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/UnitedStatesIndexNSA/UnitedStatesIndexNSA
+* [Tableau Public Dashboard Link](https://public.tableau.com/app/profile/joshua.kim6929/viz/UnitedStatesIndexNSA/UnitedStatesIndexNSA)
 * **Coding Languages:** SQL, Python, Tableau
 
 ![image](https://user-images.githubusercontent.com/43764400/222047509-37ed25a5-d938-44c7-9fa2-8b7a5889b469.png)
@@ -26,7 +26,7 @@
 * Cleaned the data and added categories using Python, which allowed for a more in-depth analysis of the data.
 * Plotted and discovered key information using Tableau, which enabled the visualization of the data and helped identify patterns and trends.
 * Designed an interactive dashboard of my expenses using Tableau, which presented the data in a visually appealing and user-friendly way.
-* Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/ExpensesFeb2021-Feb2022/ExpensesDashboard
+* [Tableau Public Dashboard Link](https://public.tableau.com/app/profile/joshua.kim6929/viz/ExpensesFeb2021-Feb2022/ExpensesDashboard)
 * **Coding Languages**: Excel, Python, Tableau
 
 ![image](https://user-images.githubusercontent.com/43764400/222047669-cc6881ce-a71d-4988-8f05-6fd58da43ae2.png)
