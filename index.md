@@ -18,7 +18,7 @@
 * Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/UnitedStatesIndexNSA/UnitedStatesIndexNSA
 * **Coding Languages:** SQL, Python, Tableau
 
-![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911866-c5139514-cd8e-424c-a4e1-522a2ab726f0.png)
+![image](https://user-images.githubusercontent.com/43764400/222047509-37ed25a5-d938-44c7-9fa2-8b7a5889b469.png)
 
 
 ## [Personal Expenses Dashboard](https://github.com/jjkcoding/Personal-Expenses-Dashboard)
@@ -29,7 +29,7 @@
 * Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/ExpensesFeb2021-Feb2022/ExpensesDashboard
 * **Coding Languages**: Excel, Python, Tableau
 
-![image](https://user-images.githubusercontent.com/43764400/222047436-739e8f83-c4b2-49fd-9276-7d9105481d27.png)
+![image](https://user-images.githubusercontent.com/43764400/222047669-cc6881ce-a71d-4988-8f05-6fd58da43ae2.png)
 
 
 ## [Polynomial Linear Regression to Predict GOOG Prices](https://github.com/jjkcoding/Polynomial-Linear-Regression-Predicting-GOOG)
