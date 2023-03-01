@@ -10,6 +10,17 @@
 ![image](https://user-images.githubusercontent.com/43764400/221736048-b4cf3e9b-2d43-45b2-9e6b-d29acc3cf563.png)
 
 
+## [U.S. Housing Index NSA Analysis](https://github.com/jjkcoding/US-Housing-Index-NSA-Analysis)
+* Analyzed and manipulated over 100,000 housing entries using SQLite, ensuring high-quality data for analysis.
+* Utilized Python to display the data on a bar chart and choropleth, providing an intuitive and informative visualization of the data.
+* Identified key findings about housing prices for all states in the U.S., providing insights into the overall trends of the housing market.
+* Designed an interactive dashboard using Tableau to showcase the key findings, enabling a user-friendly and visually appealing display of the data.
+* Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/UnitedStatesIndexNSA/UnitedStatesIndexNSA
+* **Coding Languages:** SQL, Python, Tableau
+
+![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911866-c5139514-cd8e-424c-a4e1-522a2ab726f0.png)
+
+
 ## [Personal Expenses Dashboard](https://github.com/jjkcoding/Personal-Expenses-Dashboard)
 * Conducted data analysis by utilizing pivot tables in Excel, which provided a rough analysis of the data.
 * Cleaned the data and added categories using Python, which allowed for a more in-depth analysis of the data.
@@ -31,17 +42,6 @@
 ![GOOG Forecast](https://user-images.githubusercontent.com/43764400/221107702-f38c4096-e988-4f56-bf6c-eb58c7f0a467.png)
 
 
-## [U.S. Housing Index NSA Analysis](https://github.com/jjkcoding/US-Housing-Index-NSA-Analysis)
-* Analyzed and manipulated over 100,000 housing entries using SQLite, ensuring high-quality data for analysis.
-* Utilized Python to display the data on a bar chart and choropleth, providing an intuitive and informative visualization of the data.
-* Identified key findings about housing prices for all states in the U.S., providing insights into the overall trends of the housing market.
-* Designed an interactive dashboard using Tableau to showcase the key findings, enabling a user-friendly and visually appealing display of the data.
-* Tableau Link: https://public.tableau.com/app/profile/joshua.kim6929/viz/UnitedStatesIndexNSA/UnitedStatesIndexNSA
-* **Coding Languages:** SQL, Python, Tableau
-
-![United States Index NSA Dashboard](https://user-images.githubusercontent.com/43764400/150911866-c5139514-cd8e-424c-a4e1-522a2ab726f0.png)
-
-
 ## [Korea Flight Prices](https://github.com/jjkcoding/Korea-Flight-Prices)
 * Utilized Selenium and "kayak.com" to web scrape airplane ticket prices, collecting comprehensive and up-to-date data.
 * Cleaned and structured the data into sections for effective data visualization, ensuring clear and concise insights.
@@ -50,6 +50,7 @@
 * **Main Packages:** pandas, numpy, selenium, matplotlib, seaborn
 
 ![image](https://user-images.githubusercontent.com/43764400/148858537-b15414ef-8b55-450e-830c-4e8824cba983.png) 
+
 
 ## [Stock Trading Bot with Deep Q-Learning](https://github.com/jjkcoding/Stock-Trading-Bot-with-Deep-Q-Learning)
 * Transformed and prepared data for Deep Q-Learning
