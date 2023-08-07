@@ -1,5 +1,15 @@
 # Data Analyst / Data Scientist Porfolio
 
+## [Weekly Walmart Deals Dashboard]([https://github.com/jjkcoding/San-Diego-Airbnbs-Analysis](https://github.com/jjkcoding/Weekly-Walmart-Deals-Dashboard))
+* Developed an automated weekly Python web scraper using Selenium to gather weekly deals data from Walmart's website in five sections: Beauty, Electronics, Health and Medicine, Home Improvement, and Personal Care.
+* Stored the scraped data in a Google Sheets document for easy access and management.
+* Created an interactive Tableau dashboard connected to the Google Sheets displaying key performance indicators (KPIs) all filterable by category.
+* Demonstrated the power of web scraping, data integration with Google Sheets, and data visualization through Tableau, providing valuable insights into Walmart's weekly deals.
+* [Tableau Link](https://public.tableau.com/app/profile/joshua.kim6929/viz/WeeklyWalmartDealsDashboard/WeeklyWalmartDealsDashboard)
+* **Main Packages:** Python, Tableau, Google Sheets, Selenium
+
+![Weekly Walmart Deals Dashboard](https://github.com/jjkcoding/Weekly-Walmart-Deals-Dashboard/assets/43764400/f67944f2-9a47-425d-951d-e8b0d9e4afb4)
+
 ## [San Diego Airbnb Shiny Analysis & Dashboard](https://github.com/jjkcoding/San-Diego-Airbnbs-Analysis)
 * Employed data manipulation techniques to clean and filter the San Diego Airbnb neighborhood data, ensuring the data was suitable for graph creation and analysis using RStudio and tidyverse.
 * Utilized RStudio and ggplot2/tidyverse packages to perform data analysis on San Diego Airbnb neighborhood prices, creating a range of visualizations, including bar charts, box plots, histograms, and lollipop graphs.
